@@ -1,0 +1,21 @@
+I"9<h1 id="historical-review-of-rare-immune-pathway-analysis">Historical review of rare immune pathway analysis</h1>
+
+<p class="meta">28 May 2021</p>
+<h1 id="itan--casanova-contributions">Itan &amp; Casanova contributions</h1>
+
+<p>We are tackling this problem of protein pathway analysis from the viewpoint of 
+rare immune disease and infection.
+Historically, several topics in bioinformatic and functional analysis have 
+been required before we could achieve our current position of 
+statistically-robust genetic discovery for rare disease:</p>
+
+<ol>
+  <li>Candidate variant select for individual genomes</li>
+  <li>Compiling reliable cohorts of patients with shared phenotypes</li>
+  <li>Protein-protein interactions</li>
+  <li>Variant collapse</li>
+  <li>Protein pathway analysis</li>
+  <li>Functional validation</li>
+</ol>
+
+:ET

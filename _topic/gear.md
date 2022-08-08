@@ -13,33 +13,25 @@ subject: gear
 {:toc}
 
 ## Strings
-Ernie Ball Skinny Top Beefy Bottom Slinky - 10-54.
-* <https://www.ernieball.com/guitar-strings>
+* Ernie Ball Skinny Top Beefy Bottom Slinky - 10-54. <https://www.ernieball.com/guitar-strings>
 
-D'Addario EJ45 Pro Arte nylon strings.
-* <https://www.daddario.com>
+* D'Addario EJ45 Pro Arte nylon strings. <https://www.daddario.com>
 
 ## Picks
-Ernie Ball Prodigy Guitar Picks, Standard, Black 1.5mm.
-* <https://www.ernieball.com/guitar-accessories/guitar-picks/prodigy-picks#P09199>
+* Ernie Ball Prodigy Guitar Picks, Standard, Black 1.5mm. <https://www.ernieball.com/guitar-accessories/guitar-picks/prodigy-picks#P09199>
 
 ## Guitars
-Schecter Diamond series, solo 6 custom.
-* <https://www.schecterguitars.com/Solo-6-Custom>
+* Schecter Diamond series, solo 6 custom. <https://www.schecterguitars.com/Solo-6-Custom>
 
 ## Amps
-We have transitioned to digital simulation.
-* Positive Grid Bias Amp 2 and
-	- <https://www.positivegrid.com/bias-amp/>
-* Positive Grid Bias FX 2
-	- <https://www.positivegrid.com/bias-fx/>
+We have transitioned to digital simulation over recording live amps as the quality and control is superior.
+* Positive Grid Bias Amp 2 <https://www.positivegrid.com/bias-amp/>
+* Positive Grid Bias FX 2 <https://www.positivegrid.com/bias-fx/>
 
-	We previously used a range of amps and cabs from
-* HIWATT
-	- <http://www.hiwatt.co.uk>
-* Marshall
-	- <https://marshall.com>
-with a range of pedals.
+We previously used a range of amps and cabs from
+* HIWAT <http://www.hiwatt.co.uk>
+* Marshall <https://marshall.com>
+* and with a range of pedals.
 
 ## Accessories
 * Hercules guitar stands <http://herculesstands.com/>

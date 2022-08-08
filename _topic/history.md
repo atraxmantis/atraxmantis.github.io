@@ -57,11 +57,13 @@ With everyone happy in the technical and aesthetic quality, the band steamed ahe
 	- Year: 2022
 	- Recorded with:
 	- Listen: TBA
+<br><br>
 
 * Condemned to Hatred, EP.
 	- Year: 2008
 	- Recorded with:
 	- Listen: <https://irish-metal.bandcamp.com/album/atrax-mantis-condemned-to-hatred-2008?from=hp>
+<br><br>
 
 * The Devoured Demos, Demo
 	- Year: 2007
