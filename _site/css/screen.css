@@ -224,7 +224,8 @@ transform: scale(1.1);
 
 /* when the menu logo is clicked once, we want the menu to appear, uses checkbox */
 /* Only display menu when on small screen */
-@media only screen and (max-width: 660px) {
+/* @media only screen and (max-width: 660px) { */
+@media only screen and (max-width: 0px) {
 	.gg-menu {
 		display: inline-block;
 		}
