@@ -210,7 +210,7 @@ nav {
 	justify-self: start;
 	align-self: center;
 	margin-bottom: -20px;
-	margin-top: 0px;
+	margin-top: -5px;
 	}
 
 .logoimage:hover { 
@@ -231,19 +231,26 @@ transform: scale(1.1);
 	
 	.right-menu {
 		display: none;
+		position: absolute;
 		}
 	
 	#nav-toggle:checked ~ .right-menu {
-		margin-right: -10px;
+		margin-right: -1rem;
+		margin-top: 12rem;
+		padding-top: 0.8rem;
+		padding-bottom: 0.8rem;
 		display: grid;
-		grid-row: 2;
-		font-size: 1rem;
-		/* background-color: #555; */
-		line-height: 2.6rem;
+		/* grid-row: 2; */
+		/* font-size: 1rem; */
+		background-color: #323232;
+		line-height: 3rem;
+		z-index: 5;
+		width: 100%;
 		}
 	
 	#nav-toggle:checked ~ .right-menu a {
-	color: grey;
+		color: #eaeaea;
+		color: white;
 	}
 	
 	#nav-toggle:checked ~ .gg-menu {
@@ -270,10 +277,10 @@ transform: scale(1.1);
 
 .gg-menu {
 	font-size: 1rem;
-	grid-column: 3;
+	/* grid-column: 3; */
 	margin-right: 0px;
 	justify-self: end; /* horizontal right */
-	align-self: center; /* vertical position */
+	/* align-self: center; /1* vertical position *1/ */
 	margin-bottom: -20px;
 	}
 
