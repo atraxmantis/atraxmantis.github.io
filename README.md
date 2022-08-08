@@ -1,5 +1,5 @@
 ## This is the data for LawlessGenomics
-[lawlessgenomics.com](https://lawlessgenomics.com) hosted via [DylanLawless.github.io](https://dylanlawless.github.io)
+[atraxmantis.com](https://atraxmantis.com) hosted via [atraxmantis.github.io](https://atraxmantis.github.io)
 
 Some installs may be required to serve this site locally for testing; 
 e.g. at least requires:
@@ -114,7 +114,7 @@ Make sure that `sh jek.sh` is run so that jekyll compiles the site and populates
 \_site before commiting and pushing the _master_ to the live site. 
 
 ## License
-The following directories and their contents are Copyright Dylan Lawless.
+The following directories and their contents are Copyright ATRAX MANTIS.
 You may not reuse anything therein without my permission (although I am unlikely to complain about non-profit usage):
 
 * \_posts/
@@ -122,10 +122,9 @@ You may not reuse anything therein without my permission (although I am unlikely
 * pages/
 * images/
 
-All other directories and files are MIT Licensed. Feel free to use the HTML and
-CSS as you please. If you a copy the jekyll site generator, a link back to
+If you a copy the jekyll site generator, a link back to
 http://github.com/mojombo/jekyll would be appreciated by the devolper, but is not required.
-If you copy my pushlished content, a link back to https://lawlessgenomics.com would be appreciated.
+If you copy my pushlished content, a link back to https://atraxmantis.com would be appreciated.
 
 For git tracking, test:
 `git config merge.conflictstyle diff3`
@@ -157,12 +156,12 @@ Host dylanlawless.github.com
   IdentityFile ~/.ssh/key1_rsa
   IdentitiesOnly yes
 
-# sarscov2 repo
-Host sarscov2voc.github.com
+# atrax repo
+Host atraxmantis.github.com
   HostName github.com
   User sars-cov-2-voc
   PreferredAuthentications publickey
-  IdentityFile ~/.ssh/key2_rsa
+  IdentityFile ~/.ssh/atrax_rsa
   IdentitiesOnly yes
 
 ```
@@ -220,9 +219,9 @@ And if you are using the ssh method shown above you will need to define the path
 To be able to clone the submodule (e.g. \_plugins/jekyll-reading-time), 
 modify the .gitmodules url
 
-From:	`url = git@github.com:DylanLawless/jekyll-reading-time.git`
+From:	`url = git@github.com:atraxmantis/jekyll-reading-time.git`
 
-To:		`url = git@dylanlawless.github.com:DylanLawless/jekyll-reading-time.git`
+To:		`url = git@atraxmantis.github.com:atraxmantis/jekyll-reading-time.git`
 
 Set git to use the updated .gitmodules:
 
