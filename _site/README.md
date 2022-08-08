@@ -173,7 +173,7 @@ Then clone your repo using the custom Host instead of the default provided by gi
 # Clone using the correct Host as per config.
 # As shown at the end of this page, you may need to clone with submodules.
 # You can do by add the "--recursive" flag. 
-git clone --recursive git@atraxmantis.github.com:atraxmantis/atraxmantis.github.io.git
+git clone --recursive git@dylanlawless.github.com:DylanLawless/DylanLawless.github.io.git
 
 # Set the local user here (instead of global, i.e. /Users/user/.gitconfig)
 cd "the clone repo dir"

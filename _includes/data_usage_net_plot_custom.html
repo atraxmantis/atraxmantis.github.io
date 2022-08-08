@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+	background-color: white;
+	font-family: Baskerville;
+	}
+
+h1, h2, h3, h4, h5, h6 { 
+	width:70%;
+	margin: 0 auto;
+	text-align:center;
+	color: black;
+}
+
+p {
+	width:70%;
+	margin: 0 auto;
+	text-align:center;
+	color: black;
+}
+
+@media only screen and (max-width:320px)  { /* smartphones, iPhone, portrait below 320 phones */ 
+	.subjects { margin-top: 2.5rem ; }
+	.logo { font-size: 1rem; }
+	body {
+		font-family: 'Garamond';
+		font-size: 0.8rem;
+		line-height: 1.4rem;
+		}
+	h1 { 
+		font: 1.2rem 'Didot';
+		color: black;
+	}
+	h2, h3, h4, h5, h6 {
+		font: 1.0rem 'Didot';
+		font-style: italic;
+		color: black;
+		}
+    }
+
+@media only screen and (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
+	.subjects { margin-top: 2.5rem ; }
+	.logo { font-size: 1.4rem; }
+	body {
+		font-family: 'Garamond';
+		font-size: 1.1rem;
+		line-height: 1.7rem;
+		}
+	h1 { 
+		font: 1.2rem 'Didot';
+		color: black;
+		}
+	h2, h3, h4, h5, h6 {
+		font: 1.1rem 'Didot';
+		font-style: italic;
+		color: black;
+		}
+    }
+
+@media only screen and (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
+	.subjects { margin-top: 2.5rem ; }
+	.logo { font-size: 1.5rem; }
+	body {
+		font-family: 'Garamond';
+		font-size: 1.1rem;
+		line-height: 1.7rem;
+		}
+	h1 { 
+		font: 1.2rem 'Didot';
+		color: black;
+		}
+	h2, h3, h4, h5, h6 {
+		font: 1.1rem 'Didot';
+		font-style: italic;
+		color: black;
+		}
+    }
+
+@media only screen and (min-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
+	.subjects { margin-top: 3rem ; }
+	.logo { font-size: 1.6rem; }
+	body {
+		font-size: 1.2rem;
+		line-height: 2rem;
+		}
+	h1 { 
+		font: 1.6rem 'Didot';
+		color: black;
+		}
+	h2, h3, h4, h5, h6 {
+		font: 1.3rem 'Didot';
+		font-style: italic;
+		color: black;
+		}
+    }
+
+@media only screen and (min-width:961px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */
+	.subjects { margin-top: 4rem ; }
+	.logo { font-size: 1.7rem; }
+	body {
+		font-size: 1.3rem;
+		line-height: 2rem;
+		}
+	h1 { 
+		font: 1.7rem 'Didot';
+		color: black;
+		}
+	h2 ,h3, h4, h5, h6 {
+		font: 1.3rem 'Didot';
+		font-style: italic;
+		color: black;
+		}
+    }
+
+@media only screen and (min-width:1025px) { /* big landscape tablets, laptops, and desktops */
+	.subjects { margin-top: 4rem ; }
+	.logo { font-size: 1.7rem; }
+	body {
+		font-size: 1.3rem;
+		line-height: 2rem;
+		}
+	h1 { 
+		font: 1.7rem 'Didot';
+		color: black;
+		}
+	h2, h3, h4, h5, h6 {
+		font: 1.3rem 'Didot';
+		font-style: italic;
+		color: black;
+		}
+    }
+
+@media only screen and (min-width:1281px) { /* hi-res laptops and desktops */ 
+	.subjects { margin-top: 4rem ; }
+	body {
+		font-size: 1.3rem;
+		line-height: 2rem;
+		}
+	h1 { 
+		font: 1.7rem 'Didot';
+		color: black;
+		}
+	h2, h3, h4, h5, h6 {
+		font: 1.3rem 'Didot';
+		color: black;
+	}
+    }
+
+.graph-container {
+  border: 1px solid grey;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  text-align:center; 
+  float:left;
+}
+
+.graph {
+  width: 100%;
+}
+
+.graph img {
+  width: 100%;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Data usage tracking
+</h1>
+
+<h2>
+Long-term projects use data from a range of sources. Common databases or core files are often reused multiple times. Some data can remain dormant for long periods of time. We built systems that are used to present summarised analytics, conducive to multipurpose usage and error prevention by automated data tracing. Scans project code to find data sources and produces live interactive reports, without manual curation.
+
+</h2>
+
+<!-- ----------- figure 1 ------------------------------- -->
+<div class="graph-container">
+  <div class="graph left" margin-bottom="3vh">
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="
+	https://lawlessgenomics.com/pages/portfolio_live/data_usage_net_plot_1.html
+	"
+	height="600" 
+	width="80%"></iframe>
+
+ </div>
+</div>
+<br>
+
+<!-- ----------- figure 2 ------------------------------- -->
+<div class="graph-container">
+  <div class="graph left" margin-bottom="3vh">
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="
+	https://lawlessgenomics.com/pages/portfolio_live/data_usage_net_plot_2.html
+	"
+	height="600" 
+	width="80%"></iframe>
+
+ </div>
+</div>
+<br>
+<p> </p>
+<!-- ----------- figure 3 ------------------------------- -->
+<div class="graph-container">
+  <div class="graph left" margin-bottom="3vh">
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="
+	https://lawlessgenomics.com/pages/portfolio_live/data_usage_net_plot_3.html
+	"
+	height="600" 
+	width="80%"></iframe>
+
+ </div>
+</div>
+<br>
+<p> </p>
+<!-- <h1 style="text-align:center;">Centered Heading</h1> -->
+<!-- <p style="text-align:center;">Centered paragraph.</p> -->
+
+</body>
+</html>

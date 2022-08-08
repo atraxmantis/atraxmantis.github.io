@@ -1,0 +1,20 @@
+markdown: kramdown
+kramdown: 
+  toc_levels: "2..6"
+
+collections:
+    topic:
+        output: true
+        permalink: /topic/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "topic"
+    values:
+      layout: topic
+
+title: LawlessGenomics
+url: https://lawlessgenomics.com
+
+# exclude: [_posts]

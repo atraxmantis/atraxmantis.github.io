@@ -1,0 +1,25 @@
+## Vector
+
+<https://www.youtube.com/watch?v=OZg8rvl0Vwk>
+
+## Providing logo
+
+CYMK color
+Font : convert, type > create outlines, non editable non font-embedded file.
+
+
+## size
+size: 1280 pixels largest side
+
+## save Master board file .ai
+Group logo
+Create artboard over the logo.
+Name the artboard.
+Save this as master file.ai
+Also save as master.eps
+
+## Export
+Export for screens, each logo file:
+PNG
+PDF
+SVG

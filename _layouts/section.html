@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<div id="section">
+{% for section in site.sections %}
+<h2>{{ section.name }} - {{ section.position }}</h2>
+<p>{{ section.content | markdownify }}</p>
+{% endfor %}
+</div>

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div id="page">
+{{ content | reading_time }}
+{{ content }}
+</div>
+
+<!--
+
+<div id="related">
+  <h2>Related Topics</h2>
+  <ul class="topics">
+    {% for topic in site.related_topics limit:3 %}
+      <li><span>{{ topic.date | date_to_string }}</span> &raquo; <a href="{{ topic.url }}">{{ topic.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+-->

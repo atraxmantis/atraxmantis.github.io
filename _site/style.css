@@ -1,0 +1,64 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100';
+
+html, body {
+  font-family: 'Roboto Mono', monospace;
+  background: #212121;
+  height: 100%;
+}
+
+#glitch {
+  height: 100%;
+  width: 100%;
+/*  justify-content: center; */
+/*  align-items: center; */
+  display: flex;
+}
+
+#glitch {
+  font-weight: 100;
+  font-size: 28px;
+  color: #FAFAFA;
+}
+
+#glitch > .text > .dud {
+  color: red;
+}
+
+/*#glitch {
+  animation: 1500ms infinite normal glitch;
+}*/
+
+/*#glitch > span#cursor {
+  animation: 15000ms infinite normal cursor;
+}*/
+
+/*@keyframes glitch {
+  0% {
+    opacity: 1;
+    left: 0px;
+  }
+  40% {
+    opacity: 1;
+    left: -2px;
+  }
+  80% {
+    opacity: 1;
+    left: -2px;
+  }
+}*/
+
+/* @keyframes cursor {
+  0% {
+    opacity: 0;
+    left: 0px;
+  }
+  40% {
+    opacity: 0;
+    left: -2px;
+  }
+  80% {
+    opacity: 1;
+    left: -2px;
+  }
+}*/
+
