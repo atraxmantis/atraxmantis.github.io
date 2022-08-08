@@ -1,2 +1,2 @@
-This website has been written by hand and currently consists of:  142211 total
+This website has been written by hand and currently consists of:    6198 total
  lines of text as .html, .markdown, .txt, .sh, and .css.
