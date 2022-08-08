@@ -424,6 +424,7 @@ td{
     min-width: 100%;
 }
 
+.brightness {filter: brightness(0.10);}
 
 .footer {
   height: 100px;
@@ -1110,3 +1111,13 @@ transform: scale(1.1);
 .first-row {background-color: lime; }
 .second-row { flex-grow: 1; border: none; margin: 0; padding: 0; }
 
+
+
+.row {
+  display: flex;
+  }
+
+  .column {
+    flex: 50%;
+  padding: 5px;
+  }
