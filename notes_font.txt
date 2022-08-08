@@ -1,0 +1,33 @@
+
+css
+
+replace main font throughout css
+do not define font for every screensize,
+just one time
+
+
+body {
+	/* font-family: Baskerville; */
+	font-family: Harding;
+	font-size: 1.3rem;
+	position: relative;
+	text-align: justify;
+	display: flex;
+	justify-content: center;
+	overflow-wrap: break-word;
+	color: #303c3c;
+	}
+
+@font-face {
+    font-family: Harding;
+    src:url(" ../fonts/HardingText-Regular-Web.woff2");
+}
+
+/* .Harding{ */
+/*     font-family: myFirstFont; */
+/*     font-family: Helvetica; */
+/* } */
+
+.logo {
+	font-family: Harding;
+	}

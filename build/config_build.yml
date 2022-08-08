@@ -1,0 +1,34 @@
+markdown: kramdown
+kramdown: 
+  toc_levels: "2..6"
+  # scholar:
+  #    replace_strings: true
+  #    query: "@*"
+  #    bibliography: references.bib
+
+collections:
+    topic:
+        output: true
+        permalink: /topic/:name
+      #    people: true
+
+        # You can define default values for attributes on topics. This can be useful if all the documents in the collection will share the same layout for example:
+defaults:
+  - scope:
+      path: ""
+      type: "topic"
+    values:
+      layout: topic
+
+# plugins:
+#   - jekyll-spaceship
+
+# jekyll-spaceship:
+#   # default enabled processors
+#   processors:
+#     - table-processor
+
+# feed config
+title: AtraxMantis
+url: https://atraxmantis.com
+description: A home to brutal death metal.

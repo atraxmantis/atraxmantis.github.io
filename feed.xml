@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AtraxMantis</title>
+    <description>A home to brutal death metal.</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Historical review of rare immune pathway analysis</title>
+        <description>&lt;h1 id=&quot;historical-review-of-rare-immune-pathway-analysis&quot;&gt;Historical review of rare immune pathway analysis&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;28 May 2021&lt;/p&gt;
+&lt;h1 id=&quot;itan--casanova-contributions&quot;&gt;Itan &amp;amp; Casanova contributions&lt;/h1&gt;
+
+&lt;p&gt;We are tackling this problem of protein pathway analysis from the viewpoint of 
+rare immune disease and infection.
+Historically, several topics in bioinformatic and functional analysis have 
+been required before we could achieve our current position of 
+statistically-robust genetic discovery for rare disease:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Candidate variant select for individual genomes&lt;/li&gt;
+  &lt;li&gt;Compiling reliable cohorts of patients with shared phenotypes&lt;/li&gt;
+  &lt;li&gt;Protein-protein interactions&lt;/li&gt;
+  &lt;li&gt;Variant collapse&lt;/li&gt;
+  &lt;li&gt;Protein pathway analysis&lt;/li&gt;
+  &lt;li&gt;Functional validation&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Fri, 28 May 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000//2021/05/28/test.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2021/05/28/test.html</guid>
+      </item>
+    
+		
+		
+  </channel>
+</rss>
