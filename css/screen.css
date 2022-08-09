@@ -3,7 +3,7 @@ body {
 	background-color: black;
 	/* font-family: Harding; */
 	font-family: 'Source Sans Pro', sans-serif ;
-	font-weight: 300 ; /* defaults to 400 */
+	/* font-weight: 300 ; /1* defaults to 400, 300 is too light for mobile *1/ */
 	font-size: 1.3rem;
 	position: relative;
 	text-align: justify;
