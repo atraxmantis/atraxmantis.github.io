@@ -1,9 +1,9 @@
 /* Body */
 body {
 	background-color: black;
-	/* font-family: helvetica; */
-	/* font-family: helvetica; */
-	font-family: Harding;
+	/* font-family: Harding; */
+	font-family: 'Source Sans Pro', sans-serif ;
+	font-weight: 300 ; /* defaults to 400 */
 	font-size: 1.3rem;
 	position: relative;
 	text-align: justify;
@@ -14,25 +14,27 @@ body {
 	color: #eaeaea;
 	}
 
-@font-face {
-    font-family: Harding;
-    src:url(" ../fonts/HardingText-Regular-Web.woff2");
-}
+
+/* @font-face { */
+/*     font-family: Harding; */
+/*     src:url(" ../fonts/HardingText-Regular-Web.woff2"); */
+/* } */
+
 
 @media only screen and (max-width:320px)  { /* smartphones, iPhone, portrait below 320 phones */ 
 	.subjects { margin-top: 2.5rem ; }
 	.logo { font-size: 1rem; }
 	body {
-		font-family: helvetica;
+		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 0.8rem;
 		line-height: 1.4rem;
 		}
 	h1, h2 { 
-		font: 1.2rem helvetica, sans-serif; font-weight: 700;
+		font: 1.2rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		color: #848484;
 	}
 	h3, h4, h5, h6 {
-		font: 1.0rem helvetica, sans-serif; font-weight: 700;
+		font: 1.0rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		font-style: italic;
 		color: #848484;
 		}
@@ -42,16 +44,16 @@ body {
 	.subjects { margin-top: 2.5rem ; }
 	.logo { font-size: 1.4rem; }
 	body {
-		font-family: helvetica;
+		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 1.1rem;
 		line-height: 1.7rem;
 		}
 	h1, h2 { 
-		font: 1.2rem helvetica, sans-serif; font-weight: 700;
+		font: 1.2rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		color: #848484;
 		}
 	h3, h4, h5, h6 {
-		font: 1.1rem helvetica, sans-serif; font-weight: 700;
+		font: 1.1rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		font-style: italic;
 		color: #848484;
 		}
@@ -61,16 +63,16 @@ body {
 	.subjects { margin-top: 2.5rem ; }
 	.logo { font-size: 1.5rem; }
 	body {
-		font-family: helvetica;
+		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 1.1rem;
 		line-height: 1.7rem;
 		}
 	h1, h2 { 
-		font: 1.2rem helvetica, sans-serif; font-weight: 700;
+		font: 1.2rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		color: #848484;
 		}
 	h3, h4, h5, h6 {
-		font: 1.1rem helvetica, sans-serif; font-weight: 700;
+		font: 1.1rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		font-style: italic;
 		color: #848484;
 		}
@@ -84,11 +86,11 @@ body {
 		line-height: 2rem;
 		}
 	h1, h2 { 
-		font: 1.6rem helvetica, sans-serif; font-weight: 700;
+		font: 1.6rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		color: #848484;
 		}
 	h3, h4, h5, h6 {
-		font: 1.3rem helvetica, sans-serif; font-weight: 700;
+		font: 1.3rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		font-style: italic;
 		color: #848484;
 		}
@@ -102,11 +104,11 @@ body {
 		line-height: 2rem;
 		}
 	h1, h2 { 
-		font: 1.7rem helvetica, sans-serif; font-weight: 700;
+		font: 1.7rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		color: #848484;
 		}
 	h3, h4, h5, h6 {
-		font: 1.3rem helvetica, sans-serif; font-weight: 700;
+		font: 1.3rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		font-style: italic;
 		color: #848484;
 		}
@@ -120,11 +122,11 @@ body {
 		line-height: 2rem;
 		}
 	h1, h2 { 
-		font: 1.7rem helvetica, sans-serif; font-weight: 700;
+		font: 1.7rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		color: #848484;
 		}
 	h3, h4, h5, h6 {
-		font: 1.3rem helvetica, sans-serif; font-weight: 700;
+		font: 1.3rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		font-style: italic;
 		color: #848484;
 		}
@@ -137,11 +139,11 @@ body {
 		line-height: 2rem;
 		}
 	h1, h2 { 
-		font: 1.7rem helvetica, sans-serif; font-weight: 700;
+		font: 1.7rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		color: #848484;
 		}
 	h3, h4, h5, h6 {
-		font: 1.3rem helvetica, sans-serif; font-weight: 700;
+		font: 1.3rem 'Source Sans Pro', sans-serif; font-weight: 400;
 		font-style: italic;
 		color: #848484;
 	}
@@ -485,8 +487,8 @@ td{
 }
 
 .title {
-	font-family: helvetica;
-	/* font-family: helvetica, sans-serif; font-weight: 300; color: #AAAAAA; */
+	font-family: 'Source Sans Pro', sans-serif;
+	/* font-family: 'Source Sans Pro', sans-serif; font-weight: 300; color: #AAAAAA; */
 	font-size: 150%;
 	font-weight: medium;
 	/* margin-bottom: 3rem; */
@@ -494,13 +496,13 @@ td{
 	}
 
 .site .title a {
-	color: white;
+	color: grey;
 	/* color: #AAAAAA; */
 	text-decoration: none;
 	}
 
 .site .title a:hover {
-	color: grey;
+	color: grhy;
 	/* color: #AAAAAA; */
 	}
 
@@ -870,8 +872,8 @@ div.full-width {
 h1.tagline-h1{
 	text-align: center;
 	margin: 0 auto; 
-	font-family: helvetica, sans-serif; 
-	font-weight: 700; 
+	font-family: 'Source Sans Pro', sans-serif; 
+	font-weight: 400; 
     font-size:350% !important;
 	/* color: #404040 !important; */
 	/* color: white !important; */
@@ -887,8 +889,8 @@ h1.tagline-h1{
 h2.tagline-h2{
 	text-align: center;
 	margin: 0 auto; 
-	font-family: helvetica, sans-serif; 
-	font-weight: 700; 
+	font-family: 'Source Sans Pro', sans-serif; 
+	font-weight: 400; 
 	font-size:150% !important;
 	/* color: #404040 !important; */
 	/* color: white !important; */
@@ -943,13 +945,13 @@ from, to {border-color: #e5e5e5}
 /* glitch code */
 .glitch {
   /* font-family: 'Roboto Mono', monospace; */
-	font-family: helvetica, sans-serif; 
+	font-family: 'Source Sans Pro', sans-serif; 
 	font-weight: 300;
 	white-space: pre-wrap;
 	animation:	glitch-1 8s, 
 	text-align: center;
 	/* margin: 0 auto; */ 
-	/* font-family: helvetica, sans-serif; */ 
+	/* font-family: 'Source Sans Pro', sans-serif; */ 
 	/* font-weight: 300; */ 
     /* font-size: 60% !important; */
 	/* color: #404040 !important; */
@@ -1027,14 +1029,14 @@ transform: scale(1.1);
 .buttonblack {
   -webkit-appearance: none;
   align-items: center;
-  background-color: #323232; /* color inside button behind text */
+  background-color: #191919; /* color inside button behind text */
   border-radius: 6px;
-  border: 2px solid #d6d6d6;
+  border: 2px solid #323232;
   color: #989898; /* resting font color */
   cursor: pointer;
   display: inline-block;
   flex-direction: column;
-  font-family: helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 12px;
   font-weight: 600;
   justify-content: center;
@@ -1139,217 +1141,4 @@ transform: scale(1.1);
     flex: 50%;
   padding: 5px;
   }
-
-/* NEON */
-/* @font-face  { */
-  /* font-family: Clip; */
-  /* src: url("https://acupoftee.github.io/fonts/Clip.ttf"); */
-/* } */
-
-body {
-  background-color: #141114;
-  /* background-image: linear-gradient(335deg, black 23px, transparent 23px), */
-  /*   linear-gradient(155deg, black 23px, transparent 23px), */
-  /*   linear-gradient(335deg, black 23px, transparent 23px), */
-  /*   linear-gradient(155deg, black 23px, transparent 23px); */
-  background-size: 58px 58px;
-  background-position: 0px 2px, 4px 35px, 29px 31px, 34px 6px;
-}
-
-.sign {
-  /* position: absolute; */
-  /* display: flex; */
-  /* justify-content: center; */
-  /* align-items: center; */
-  /* width: 50%; */
-  /* height: 50%; */
-  /* background-image: radial-gradient( */
-  /*   ellipse 50% 35% at 50% 50%, */
-  /*   #6b1839, */
-  /*   transparent */
-  );
-  /* transform: translate(-50%, -50%); */
-  /* letter-spacing: 2; */
-  /* left: 50%; */
-  /* top: 50%; */
-  /* font-family: "Clip"; */
-  /* text-transform: uppercase; */
-  /* font-size: 6em; */
-  color: #ffe6ff;
-  text-shadow: 0 0 0.6rem #ffe6ff, 0 0 1.5rem #ff65bd,
-    -0.2rem 0.1rem 0.1rem #ff65bd, 0.2rem 0.1rem 1rem #ff65bd,
-    0 -0.5rem 1rem #ff2483, 0 0.5rem 1rem #ff2483;
-  animation: shine 2s forwards, flicker 3s infinite;
-}
-
-@keyframes blink {
-  0%,
-  22%,
-  36%,
-  75% {
-    color: #ffe6ff;
-    text-shadow: 0 0 0.6rem #ffe6ff, 0 0 1.5rem #ff65bd,
-      -0.2rem 0.1rem 1rem #ff65bd, 0.2rem 0.1rem 1rem #ff65bd,
-      0 -0.5rem 2rem #ff2483, 0 0.5rem 3rem #ff2483;
-  }
-  28%,
-  33% {
-    color: #ff65bd;
-    text-shadow: none;
-  }
-  82%,
-  97% {
-    color: #ff2483;
-    text-shadow: none;
-  }
-}
-
-.flicker {
-  animation: shine 2s forwards, blink 3s 2s infinite;
-}
-
-.fast-flicker {
-  animation: shine 2s forwards, blink 10s 1s infinite;
-}
-
-@keyframes shine {
-  0% {
-    color: #6b1839;
-    text-shadow: none;
-  }
-  100% {
-    color: #ffe6ff;
-    text-shadow: 0 0 0.6rem #c13e3e, 0 0 1.5rem #732525,
-      -0.2rem 0.1rem 1rem #732525, 0.2rem 0.1rem 1rem #732525,
-      0 -0.5rem 1rem #732525, 0 0.5rem 1rem #732525;
-  }
-}
-
-@keyframes flicker {
-  from {
-    opacity: 1;
-  }
-
-  4% {
-    opacity: 0.9;
-  }
-
-  6% {
-    opacity: 0.85;
-  }
-
-  8% {
-    opacity: 0.95;
-  }
-
-  10% {
-    opacity: 0.9;
-  }
-
-  11% {
-    opacity: 0.922;
-  }
-
-  12% {
-    opacity: 0.9;
-  }
-
-  14% {
-    opacity: 0.95;
-  }
-
-  16% {
-    opacity: 0.98;
-  }
-
-  17% {
-    opacity: 0.9;
-  }
-
-  19% {
-    opacity: 0.93;
-  }
-
-  20% {
-    opacity: 0.99;
-  }
-
-  24% {
-    opacity: 1;
-  }
-
-  26% {
-    opacity: 0.94;
-  }
-
-  28% {
-    opacity: 0.98;
-  }
-
-  37% {
-    opacity: 0.93;
-  }
-
-  38% {
-    opacity: 0.8;
-  }
-
-  39% {
-    opacity: 0.96;
-  }
-
-  42% {
-    opacity: 1;
-  }
-
-  44% {
-    opacity: 0.97;
-  }
-
-  46% {
-    opacity: 0.94;
-  }
-
-  56% {
-    opacity: 0.9;
-  }
-
-  58% {
-    opacity: 0.9;
-  }
-
-  60% {
-    opacity: 0.99;
-  }
-
-  68% {
-    opacity: 1;
-  }
-
-  70% {
-    opacity: 0.9;
-  }
-
-  72% {
-    opacity: 0.95;
-  }
-
-  93% {
-    opacity: 0.93;
-  }
-
-  95% {
-    opacity: 0.95;
-  }
-
-  97% {
-    opacity: 0.93;
-  }
-
-  to {
-    opacity: 1;
-  }
-}
-
-
 
