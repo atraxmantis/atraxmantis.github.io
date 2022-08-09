@@ -1,0 +1,17 @@
+I"p<!-- Listen -->
+<!-- ================ -->
+
+<!-- * TOC -->
+<!-- {:toc} -->
+
+<audio controls="">
+	<source src="/media/Atrax Mantis - Condemned To Hatred (2008) - 01 Eyes Of The Damned.mp3" type="audio/mpeg" />
+Condemned To Hatred (2008) - 01 Eyes Of The Damned.mp3
+</audio>
+
+<script>
+  var audio = document.getElementById("bgAudio");
+    audio.volume = 0.1;
+	</script>
+
+:ET

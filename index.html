@@ -121,6 +121,15 @@ Respecting your data privacy means no ads, no trackers,
 		</ul>
 	</div>
 
+	<div class="subjects">
+		<h1>Listen</h1>
+		<ul class="topic">
+		{% assign sorted-topic = site.topic | where: "subject","player" %}
+		{% for topic in sorted-topic %}
+		<a href="{{ topic.url }}">{{ topic.title }}</a><br />
+		{% endfor %}
+		</ul>
+	</div>
 
 	<div class="subjects">
 		<h1>Blog Posts</h1>
