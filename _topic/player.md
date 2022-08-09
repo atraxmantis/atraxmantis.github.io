@@ -12,6 +12,11 @@ subject: player
 <!-- * TOC -->
 <!-- {:toc} -->
 
+ <!-- <div class="sign"> -->
+ <!--       <span class="fast-flicker"> -->
+	   <!-- </span>Condemned To <span class="flicker">H</span>atred (2008) EP -->
+<!-- </div> -->
+
 ## Condemned To Hatred (2008) EP
 <figure><figcaption>
 01 Eyes Of The Damned.mp3
