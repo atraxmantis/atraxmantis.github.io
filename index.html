@@ -121,6 +121,20 @@ Respecting your data privacy means no ads, no trackers,
 		</ul>
 	</div>
 
+
+	<div class="subjects">
+		<h1>Blog Posts</h1>
+		<ul class="posts">
+		{% for post in site.posts %}
+		{% if post.path contains 'blogpost' %}
+		<li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+		</ul>
+	</div>
+
+
+
 	<!-- <div > -->
 	<!-- 	<a href="/" > -->
 	<!-- 	<img style="margin-bottom:-16px" --> 
