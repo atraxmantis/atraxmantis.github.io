@@ -51,4 +51,4 @@ While this takes out some of the punch if solo, it is far more important to give
  
 
 We also take of some off the high end that is superfluously picked up during recording that generally is not heard while playing live.
- 
+
