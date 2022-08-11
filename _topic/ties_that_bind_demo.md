@@ -21,7 +21,7 @@ subject: unlisted
 /media/ties_that_bind_v8.2.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></figure>
 
 <a href="
-/media/ties_that_bind_v8.2.mp3"
+/media/ties_that_bind_v8.2.mp3 demo"
  download>Download link mp3</a>
 
 
@@ -30,13 +30,16 @@ This song was originally recorded in 2012.
 We have re-recorded it in 2022 and are using this old piece as a benchmark for future recording and mixing. 
 It was originally recorded with our vocalist, and is therefore melodically simpler than our current instrumental songs.
 
-* There are 1-2 bass tracks.
+* All guitar/bass are recorded as direct input (DI) Hi-Z.
+* There are 1-2 bass track DI.
 * The guitars are recorded as quad-track DI.
-* and 16 drum mics.
+* There are 16 drum mics.
 * 2-3 additional tracks are used for clean guitars or ornamentation.
+* All raw files catalogued, available as exported from DAW with 0 sync point.
+* Cubase session available if preferential.
 
-The final sound may completely change. 
-However, our current preference for this rough mix has been created 
+While this final sound may change drastically, 
+our current preference for this rough mix has been created as listed:
 <a href="
 /topic/ties-that-bind-demo-notes">
-as listed in the notes page</a> ⚡.
+in the notes page</a> ⚡.

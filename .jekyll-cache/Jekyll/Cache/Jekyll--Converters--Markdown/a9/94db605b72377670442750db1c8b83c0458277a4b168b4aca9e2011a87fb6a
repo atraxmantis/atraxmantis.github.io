@@ -1,0 +1,232 @@
+I"�$<!-- subject: player -->
+<!-- Ties that bind demo (2022) -->
+<!-- ================ -->
+
+<h2 id="notes-ties-that-bind-demo-2022">Notes: Ties that bind demo (2022)</h2>
+<ul id="markdown-toc">
+  <li><a href="#notes-ties-that-bind-demo-2022" id="markdown-toc-notes-ties-that-bind-demo-2022">Notes: Ties that bind demo (2022)</a></li>
+  <li><a href="#about" id="markdown-toc-about">About</a></li>
+  <li><a href="#bass" id="markdown-toc-bass">Bass</a>    <ul>
+      <li><a href="#bass-channel-1-treble" id="markdown-toc-bass-channel-1-treble">Bass Channel 1 (Treble)</a>        <ul>
+          <li><a href="#positive-grid-bias-fx-2-chain" id="markdown-toc-positive-grid-bias-fx-2-chain">Positive Grid Bias FX 2 chain</a></li>
+          <li><a href="#positive-grid-bias-amp-2" id="markdown-toc-positive-grid-bias-amp-2">Positive Grid Bias Amp 2</a></li>
+        </ul>
+      </li>
+      <li><a href="#bass-channel-2-bass" id="markdown-toc-bass-channel-2-bass">Bass Channel 2 (Bass)</a>        <ul>
+          <li><a href="#positive-grid-bias-fx-2-chain-1" id="markdown-toc-positive-grid-bias-fx-2-chain-1">Positive Grid Bias FX 2 chain</a></li>
+          <li><a href="#positive-grid-bias-amp-2-1" id="markdown-toc-positive-grid-bias-amp-2-1">Positive Grid Bias Amp 2</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#guitars" id="markdown-toc-guitars">Guitars</a>    <ul>
+      <li><a href="#guitar-mesaboogie-left-and-right" id="markdown-toc-guitar-mesaboogie-left-and-right">Guitar Mesa/Boogie (left and right)</a>        <ul>
+          <li><a href="#positive-grid-bias-fx-2-chain-2" id="markdown-toc-positive-grid-bias-fx-2-chain-2">Positive Grid Bias FX 2 chain</a></li>
+          <li><a href="#positive-grid-bias-amp-2-2" id="markdown-toc-positive-grid-bias-amp-2-2">Positive Grid Bias Amp 2:</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#guitar-orange-dark-terror-left-and-right" id="markdown-toc-guitar-orange-dark-terror-left-and-right">Guitar Orange Dark Terror (left and right)</a>    <ul>
+      <li><a href="#positive-grid-bias-fx-2-chain-3" id="markdown-toc-positive-grid-bias-fx-2-chain-3">Positive Grid Bias FX 2 chain</a></li>
+      <li><a href="#positive-grid-bias-amp-2-3" id="markdown-toc-positive-grid-bias-amp-2-3">Positive Grid Bias Amp 2</a></li>
+    </ul>
+  </li>
+  <li><a href="#all-guitar-channels" id="markdown-toc-all-guitar-channels">All guitar channels</a></li>
+  <li><a href="#all-bass-channels" id="markdown-toc-all-bass-channels">All bass channels</a></li>
+  <li><a href="#drums" id="markdown-toc-drums">Drums</a></li>
+</ul>
+
+<p>⚡<a href="/topic/ties-that-bind-demo">
+Return to main page: mp3 player/download</a> </p>
+
+<h2 id="about">About</h2>
+<p>This song was originally recorded in 2012.
+We have re-recorded it in 2022 and are using this old piece as a benchmark for future recording and mixing. 
+It was originally recorded with our vocalist, and is therefore melodically simpler than our current instrumental songs.</p>
+
+<ul>
+  <li>All guitar/bass are recorded as direct input (DI) Hi-Z.</li>
+  <li>There are 1-2 bass track DI.</li>
+  <li>The guitars are recorded as quad-track DI.</li>
+  <li>There are 16 drum mics.</li>
+  <li>2-3 additional tracks are used for clean guitars or ornamentation.</li>
+  <li>All raw files catalogued, available as exported from DAW with 0 sync point.</li>
+  <li>Cubase session available if preferential.</li>
+</ul>
+
+<p>While this final sound may change drastically, 
+our current preference for this rough mix has been created as listed:</p>
+
+<p><a href="/media/ties_that_bind_cubase_screen.png" target="_blank">
+<img src="/media/ties_that_bind_cubase_screen.png" alt="Screenshot of Cubase session" style="width:100%" />
+</a>
+<!-- class="center" --></p>
+
+<!-- Note i used an invisible whitespace character here to make table spacing -->
+
+<table>
+  <thead>
+    <tr>
+      <th>  Player       </th>
+      <th> Pan      </th>
+      <th> Channel                </th>
+      <th> Notes                                                                                                   </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>  Bassist 1    </td>
+      <td> Right 20 </td>
+      <td> Bass DI - treble spank </td>
+      <td> <a href="/topic/ties-that-bind-demo-notes#bass-channel-1-treble">jump to section</a>                    </td>
+    </tr>
+    <tr>
+      <td>  Bassist 1    </td>
+      <td> Left 20  </td>
+      <td> Bass DI - bass thick   </td>
+      <td> <a href="/topic/ties-that-bind-demo-notes#bass-channel-2-bass">jump to section</a>                      </td>
+    </tr>
+    <tr>
+      <td>  Guitarist 1  </td>
+      <td> Left     </td>
+      <td> L G1: Mesa             </td>
+      <td> <a href="/topic/ties-that-bind-demo-notes#guitar-mesaboogie-left-and-right">jump to section</a>         </td>
+    </tr>
+    <tr>
+      <td>  Guitarist 1  </td>
+      <td> Left     </td>
+      <td> L G1: Orange           </td>
+      <td> <a href="/topic/ties-that-bind-demo-notes#guitar-orange-dark-terror-left-and-right">jump to section</a> </td>
+    </tr>
+    <tr>
+      <td>  Guitarist 2  </td>
+      <td> Right    </td>
+      <td> R G2: Mesa             </td>
+      <td> Same as G1                                                                                              </td>
+    </tr>
+    <tr>
+      <td>  Guitarist 2  </td>
+      <td> Right    </td>
+      <td> R G2: Orange           </td>
+      <td> Same as G1                                                                                              </td>
+    </tr>
+    <tr>
+      <td>  Guitarist 1  </td>
+      <td> NA       </td>
+      <td> G1 Solo                </td>
+      <td> Same as G1                                                                                              </td>
+    </tr>
+    <tr>
+      <td>  Guitarist 2  </td>
+      <td> NA       </td>
+      <td> G2 Solo                </td>
+      <td> Same as G1                                                                                              </td>
+    </tr>
+    <tr>
+      <td>  Drums        </td>
+      <td> NA       </td>
+      <td> multitrack             </td>
+      <td> <a href="/topic/ties-that-bind-demo-notes#drums">jump to section</a>                                    </td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="/yed/sound_stage_dark.png" target="_blank">
+<img src="/yed/sound_stage_dark.png" alt="Illustration of sound stage" style="width:50%" />
+</a>
+<!-- class="center" --></p>
+
+<h2 id="bass">Bass</h2>
+<p>Single DI bass split into two channels: (1) treble and (2) bass.
+Slight left/right pan.
+Slight manual stereo delay by several milliseconds for widening.</p>
+
+<h3 id="bass-channel-1-treble">Bass Channel 1 (Treble)</h3>
+<h4 id="positive-grid-bias-fx-2-chain">Positive Grid Bias FX 2 chain</h4>
+<ul>
+  <li>Noise gate</li>
+  <li>Boost</li>
+</ul>
+
+<h4 id="positive-grid-bias-amp-2">Positive Grid Bias Amp 2</h4>
+<ul>
+  <li>Fender Super Bassman Head</li>
+  <li>Pre-amp, Tone stack, Power amp, Transformer</li>
+  <li>Fender Super Bassman cab</li>
+  <li>EQ to cut high finger noise</li>
+</ul>
+
+<h3 id="bass-channel-2-bass">Bass Channel 2 (Bass)</h3>
+<h4 id="positive-grid-bias-fx-2-chain-1">Positive Grid Bias FX 2 chain</h4>
+<ul>
+  <li>Same as Bass channel 1.</li>
+</ul>
+
+<h4 id="positive-grid-bias-amp-2-1">Positive Grid Bias Amp 2</h4>
+<ul>
+  <li>British AD 20 (Orange AD 200) head</li>
+  <li>Pre-amp, Tone stack, Power amp, Transformer</li>
+  <li>Bass Blue cab</li>
+  <li>EQ to cut high finger noise</li>
+</ul>
+
+<h2 id="guitars">Guitars</h2>
+<p>Main content has four DI channels.</p>
+<ul>
+  <li>Sound 1 - Mesa/Boogie</li>
+  <li>Sound 2 - Orange Dark Terror</li>
+</ul>
+
+<p>Hard pan L1, L2, R1, R2.
+There are typically two guitar melodies which are exclusively heard left/right.
+However, sometimes all four channels are used for four individual harmonies/melodies.</p>
+
+<h3 id="guitar-mesaboogie-left-and-right">Guitar Mesa/Boogie (left and right)</h3>
+<h4 id="positive-grid-bias-fx-2-chain-2">Positive Grid Bias FX 2 chain</h4>
+<ul>
+  <li>Noise gate</li>
+  <li>Tube screamer (no additional drive)</li>
+</ul>
+
+<h4 id="positive-grid-bias-amp-2-2">Positive Grid Bias Amp 2:</h4>
+<ul>
+  <li>Mesa/Boogie Triple Rectifier</li>
+  <li>Pre-amp, Tone stack, Power amp, Transformer</li>
+  <li>Green 25s cab</li>
+  <li>EQ</li>
+</ul>
+
+<h2 id="guitar-orange-dark-terror-left-and-right">Guitar Orange Dark Terror (left and right)</h2>
+<h4 id="positive-grid-bias-fx-2-chain-3">Positive Grid Bias FX 2 chain</h4>
+<ul>
+  <li>Same as Guitar Mesa/Boogie</li>
+</ul>
+
+<h4 id="positive-grid-bias-amp-2-3">Positive Grid Bias Amp 2</h4>
+<ul>
+  <li>Orange Dark Terror</li>
+  <li>EQ</li>
+  <li>Pre-amp, Tone stack, Power amp, Transformer</li>
+  <li>Celestion G12H-75 Creamback 1x12</li>
+  <li>EQ bump at dominant freq and 12kHz</li>
+</ul>
+
+<h2 id="all-guitar-channels">All guitar channels</h2>
+<ul>
+  <li>Channel EQ Soft cut low and high.</li>
+  <li>Small amount of compression</li>
+</ul>
+
+<h2 id="all-bass-channels">All bass channels</h2>
+<ul>
+  <li>Channel EQ</li>
+  <li>Small amount of compression</li>
+</ul>
+
+<h2 id="drums">Drums</h2>
+<p>This rough drum mix was output directly after recording by the engineer. 
+However, no additional mixing has been done on the DI tracks.
+Recorded in five sections, several takes are available from each.</p>
+
+:ET

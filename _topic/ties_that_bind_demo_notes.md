@@ -28,10 +28,25 @@ It was originally recorded with our vocalist, and is therefore melodically simpl
 * The guitars are recorded as quad-track DI.
 * There are 16 drum mics.
 * 2-3 additional tracks are used for clean guitars or ornamentation.
+* All raw files catalogued, available as exported from DAW with 0 sync point.
+* Cubase session available if preferential.
 
-The final sound may completely change. 
-However, our current preference for this rough mix has been created as listed:
-	    <img src="/media/ties_that_bind_cubase_screen.png" alt="Screenshot of Cubase session" style="width:100%">
+While this final sound may change drastically, 
+our current preference for this rough mix has been created as listed:
+
+
+
+
+<a href="/media/ties_that_bind_cubase_screen.png"
+target="_blank">
+<img 
+src="/media/ties_that_bind_cubase_screen.png" 
+alt="Screenshot of Cubase session" 
+style="width:100%">
+</a>
+<!-- class="center" --> 
+
+
 
 <!-- Note i used an invisible whitespace character here to make table spacing -->
 
@@ -47,8 +62,14 @@ However, our current preference for this rough mix has been created as listed:
 |  Guitarist 2  | NA       | G2 Solo                | Same as G1                                                                                              |
 |  Drums        | NA       | multitrack             | <a href="/topic/ties-that-bind-demo-notes#drums">jump to section</a>                                    |
 
-
-
+<a href="/yed/sound_stage_dark.png"
+target="_blank">
+<img 
+src="/yed/sound_stage_dark.png" 
+alt="Illustration of sound stage" 
+style="width:50%">
+</a>
+<!-- class="center" --> 
 
 ## Bass
 Single DI bass split into two channels: (1) treble and (2) bass.
@@ -80,6 +101,7 @@ Slight manual stereo delay by several milliseconds for widening.
 Main content has four DI channels.
 * Sound 1 - Mesa/Boogie
 * Sound 2 - Orange Dark Terror
+
 Hard pan L1, L2, R1, R2.
 There are typically two guitar melodies which are exclusively heard left/right.
 However, sometimes all four channels are used for four individual harmonies/melodies.
@@ -117,5 +139,5 @@ However, sometimes all four channels are used for four individual harmonies/melo
 ## Drums
 This rough drum mix was output directly after recording by the engineer. 
 However, no additional mixing has been done on the DI tracks.
-Recorded in five sections, several takes are avaible from each.
+Recorded in five sections, several takes are available from each.
 
